@@ -22,4 +22,4 @@ En l'état, il suffit de changer la ligne `http://localhost` dans le fichier `ta
 
 Voici par exemple une session de test sen cours, sur https://docs.traefik.io : 
 
-[impr. ecran exemple exécution de tests charge jmeter sur https-docs.traefik.io](https://github.com/Jean-Baptiste-Lasselle/provision-taurus/raw/master/docueemntation/impr-ecrans/TAURUS_JMETER_TESTING_2019-08-31%2015-55-55.png) 
+![impr. ecran exemple exécution de tests charge jmeter sur https-docs.traefik.io](https://github.com/Jean-Baptiste-Lasselle/provision-taurus/raw/master/docueemntation/impr-ecrans/TAURUS_JMETER_TESTING_2019-08-31%2015-55-55.png) 
