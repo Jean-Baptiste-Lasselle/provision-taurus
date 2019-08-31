@@ -9,7 +9,7 @@ scenarios:
     headers:
         Connection: close
     requests:
-    - https://docs.traefik.io/ 
+    - http://localhost/
 
 reporting:
 - module: final-stats
